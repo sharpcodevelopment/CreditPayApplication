@@ -1,4 +1,4 @@
-﻿using System;
+a﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace CreditPayApplication
     {
         public void Pay()
         {
-            throw new NotImplementedException();
+            Console.Writeline("your loan is ready")
         }
     }
 }
