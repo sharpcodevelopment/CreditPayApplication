@@ -10,7 +10,7 @@ namespace CreditPayApplication
     {
         public void Pay()
         {
-            throw new NotImplementedException();
+           Console.Writeline("your loan is ready");
         }
     }
 }
